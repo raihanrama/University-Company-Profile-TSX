@@ -219,7 +219,7 @@ in the Software without restriction...
 **Developer:** Muhammad Raihan Ramadhan  
 **Email:** [muhammadraihan291003@gmail.com](mailto:muhammadraihan291003@gmail.com)  
 **GitHub:** [@raihanrama](https://github.com/raihanrama)  
-**LinkedIn:** [rajhanrama](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
+**LinkedIn:** [Muhammad Raihan Ramadhan](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
 
 **Project Link:** [https://github.com/rajhanrama/university-profile](https://github.com/rajhanrama/university-profile)
 
