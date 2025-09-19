@@ -160,9 +160,6 @@ university-profile/
 
 ## 📱 Screenshots
 
-### Academic Programs
-![Programs Page](./docs/screenshots/programs-page.png)
-*Academic programs and course listings*
 
 ## 🤝 Contributing
 
