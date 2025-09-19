@@ -160,11 +160,6 @@ university-profile/
 
 ## 📱 Screenshots
 
-
-### Mobile View
-![Mobile Responsive](./docs/screenshots/mobile-responsive.png)
-*Fully responsive design for mobile devices*
-
 ### Academic Programs
 ![Programs Page](./docs/screenshots/programs-page.png)
 *Academic programs and course listings*
