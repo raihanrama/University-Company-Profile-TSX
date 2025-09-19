@@ -158,9 +158,6 @@ university-profile/
 └── vite.config.ts        # Vite build configuration
 ```
 
-## 📱 Screenshots
-
-
 ## 🤝 Contributing
 
 We welcome contributions to improve this university profile website! Here's how you can help:
