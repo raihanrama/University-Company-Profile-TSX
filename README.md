@@ -221,7 +221,7 @@ in the Software without restriction...
 **GitHub:** [@raihanrama](https://github.com/raihanrama)  
 **LinkedIn:** [Muhammad Raihan Ramadhan](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
 
-**Project Link:** [https://github.com/rajhanrama/university-profile](https://github.com/rajhanrama/university-profile)
+**Project Link:** [https://github.com/raihanrama/university-profile](https://github.com/rajhanrama/university-profile)
 
 ---
 
