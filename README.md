@@ -216,7 +216,7 @@ in the Software without restriction...
 
 ## 📞 Contact
 
-**Developer:** Rajhanrama  
+**Developer:** Muhammad Raihan Ramadhan  
 **Email:** [muhammadraihan291003@gmail.com](mailto:muhammadraihan291003@gmail.com)  
 **GitHub:** [@rajhanrama](https://github.com/rajhanrama)  
 **LinkedIn:** [rajhanrama](https://linkedin.com/in/rajhanrama)
