@@ -110,9 +110,6 @@ The website is designed to provide prospective students, parents, and stakeholde
 ```bash
 npm run dev        # Start development server
 npm run build      # Build for production
-npm run preview    # Preview production build
-npm run lint       # Run ESLint
-npm run type-check # Run TypeScript type checking
 ```
 
 ### Build for Production
