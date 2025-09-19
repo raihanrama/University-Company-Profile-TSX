@@ -160,9 +160,6 @@ university-profile/
 
 ## 📱 Screenshots
 
-### Desktop View
-![Desktop Homepage](./docs/screenshots/desktop-home.png)
-*Homepage with hero section and navigation*
 
 ### Mobile View
 ![Mobile Responsive](./docs/screenshots/mobile-responsive.png)
